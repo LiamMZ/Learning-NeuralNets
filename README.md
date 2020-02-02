@@ -1,2 +1,2 @@
-# Learning-Pytorch
-Repository for holding pytorch tutorial files
+# Learning-NeuralNets
+Repository for holding Neural Nettutorial files
